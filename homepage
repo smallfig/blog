@@ -1,16 +1,20 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE html> 
+<html> 
 
-<head>
-  <title>smallfig</title>
+<head> 
+  <title>smallfig</title> 
+  <meta charset="utf-8"/> 
+  <link rel="stylesheet" type="text/css" href="main.css"> 
 </head>
 
-<body>
-<h1>smallfig</h1>
+<body> 
+<h1>smallfig</h1> 
 
 <img class="circular--square" src= "" />
 
 <h2>author: Rin</h2>
+
+<a href="http://www.smallfig.wordpress.com/html/">food & fitness</a> 
 
 background-color: #FFF1F1
 </body>

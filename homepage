@@ -1,15 +1,30 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta charset="utf-8">
-<title>guineapig</title>
-<style>
-
-h2 
-
-</style>
-
-</head>
-<body>
+    <head>
+        <meta charset="utf-8">
+        <title>guineapig</title>
+        <style>
+        
+        h1 {
+        color: rgb(255, 153, 153);
+        }
+        
+        h2 {
+        color: rgb(0, 0, 0);
+        }
+        
+        body {
+            background-color: rgb(227, 195, 157);
+        }
+        
+        </style>
+    </head>
+    <body>
+    
 <h1>guineapig</h1>
-<h2>author: kat</h2>
+
+<h2>an example of efforts put into living a minimal, thoughtful, and functional life.<br>
+    born out of a dislike for excess and a desire to focus on life's important things.</h2>
+
+    </body>
+</html>
